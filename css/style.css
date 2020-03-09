@@ -1,0 +1,11 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.img-logo {
+  max-width:130px; 
+  margin-top: 7px; 
+  margin-bottom: 7px;
+}
